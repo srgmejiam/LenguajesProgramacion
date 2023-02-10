@@ -7,6 +7,7 @@ using static LenguajesProgramación.FactoriaRecursivo;
 using static LenguajesProgramación.CuentaBancaria;
 using System.Security;
 using LenguajesProgramación.e.Polimorfismo;
+using LenguajesProgramación.f.Listas;
 
 namespace LenguajesProgramación
 {
@@ -113,6 +114,11 @@ namespace LenguajesProgramación
             Dog.ObtenerCantidadPatas();
             Dog.ObtenerEspecie();
             Console.ReadLine();
+        }
+        public static void EjemploCRUD_POO()
+        {
+            Ejercicios ejercicios = new Ejercicios();
+            ejercicios.EjecutarEjemplo();
         }
     }
 

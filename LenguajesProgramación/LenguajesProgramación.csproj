@@ -50,6 +50,7 @@
     <Compile Include="Ejemplos.cs" />
     <Compile Include="a.Recursivida\FactoriaRecursivo.cs" />
     <Compile Include="c.Herencia\Herencia.cs" />
+    <Compile Include="f.Listas\Ejercicios.cs" />
     <Compile Include="f.Listas\ListasEnlazadas.cs" />
     <Compile Include="c.Herencia\Persona.cs" />
     <Compile Include="a.Recursivida\PotenciacionRecursiva.cs" />

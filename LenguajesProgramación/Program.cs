@@ -6,7 +6,7 @@ namespace LenguajesProgramación
     {
         static void Main(string[] args)
         {
-            EjemploPolimorfismo();
+            EjemploCRUD_POO();
         }
     }
 }
