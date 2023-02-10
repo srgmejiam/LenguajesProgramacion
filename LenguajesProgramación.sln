@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LenguajesProgramación", "LenguajesProgramación\LenguajesProgramación.csproj", "{438ADEA7-FA09-4FA2-8DF3-8A8258913E28}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LegujesProgramacionVB", "LegujesProgramacionVB\LegujesProgramacionVB.vbproj", "{8C6E9F2F-BD04-475B-AA56-A81BE71DD95F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{438ADEA7-FA09-4FA2-8DF3-8A8258913E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{438ADEA7-FA09-4FA2-8DF3-8A8258913E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{438ADEA7-FA09-4FA2-8DF3-8A8258913E28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C6E9F2F-BD04-475B-AA56-A81BE71DD95F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6E9F2F-BD04-475B-AA56-A81BE71DD95F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6E9F2F-BD04-475B-AA56-A81BE71DD95F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6E9F2F-BD04-475B-AA56-A81BE71DD95F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
