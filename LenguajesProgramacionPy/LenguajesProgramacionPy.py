@@ -8,5 +8,5 @@
 #from Herencia import EjemploHerencia as EjHeren
 #EjHeren.EjemploHerencia.Ejemplo()
 
-#from Polimorfismo import Ejemplos as EjPoli
-#EjPoli.EjemploPolimorfismo()
+from Polimorfismo import Ejemplos as EjPoli
+EjPoli.EjemploPolimorfismo()
